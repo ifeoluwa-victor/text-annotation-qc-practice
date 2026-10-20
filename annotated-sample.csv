@@ -1,0 +1,31 @@
+item_id,text,label,note
+T001,What does the term echogenic mean in ultrasound?,DEFINITION,
+T002,Is it safe to have an MRI with a metal plate in the arm?,SAFETY,Asks about safety. I label the type only and do not answer.
+T003,How do I position a patient for a PA chest X-ray?,PROCEDURE,
+T004,Which textbooks are good for learning CT physics?,STUDY_CAREER,
+T005,What is the difference between T1 and T2 images?,DEFINITION,
+T006,Why is gel used during an ultrasound scan?,DEFINITION,Asks why so it is an explanation. See guidelines.
+T007,How many weeks pregnant can you have an X-ray?,SAFETY,Radiation and pregnancy.
+T008,Can I become a sonographer after a radiography degree?,STUDY_CAREER,
+T009,Anyone selling second-hand lab coats?,UNCLEAR,Off topic.
+T010,What is windowing in CT?,DEFINITION,
+T011,What steps do I follow before starting a fluoroscopy exam?,PROCEDURE,
+T012,Is ionising radiation used in ultrasound?,SAFETY,Radiation question so rule 2 applies. See guidelines.
+T013,How should I prepare for my radiography final exams?,STUDY_CAREER,
+T014,What is a transducer?,DEFINITION,
+T015,What lead apron thickness should staff wear?,SAFETY,Radiation protection for staff.
+T016,How do I measure crown-rump length?,PROCEDURE,
+T017,help,UNCLEAR,Too short to tell what is wanted.
+T018,What does artefact mean in imaging?,DEFINITION,
+T019,Are there scholarships for radiography students abroad?,STUDY_CAREER,
+T020,What do I do if a patient feels dizzy during a scan?,SAFETY,Patient wellbeing so rule 2 applies. See guidelines.
+T021,What is the purpose of a contrast agent?,DEFINITION,
+T022,Which probe should I use for a first-trimester scan?,PROCEDURE,
+T023,Is it okay to skip radiation protection training?,SAFETY,
+T024,Where can I find free anatomy quizzes?,STUDY_CAREER,
+T025,What is half-value layer?,DEFINITION,Radiation physics term. It asks for a meaning and not about someone's risk.
+T026,Nice weather today,UNCLEAR,Off topic.
+T027,How do I set exposure factors for a lateral knee?,PROCEDURE,
+T028,What are the risks of too much CT radiation?,SAFETY,
+T029,Can AI tools help me study radiography?,STUDY_CAREER,Main purpose is studying. See guidelines.
+T030,What is Doppler ultrasound?,DEFINITION,
