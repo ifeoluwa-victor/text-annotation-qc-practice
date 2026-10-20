@@ -17,7 +17,7 @@ A small project where I practise giving short texts consistent labels, following
 - `qc-checklist.md`: the checks I run before calling a file finished
 
 ## Status
-In progress. Files are being added.
+All files are added. I reviewed the labels and guidelines as I built them.
 
 ## Limits
 This is a small practice set. It is not a validated dataset.
